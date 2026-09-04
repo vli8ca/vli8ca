@@ -10,7 +10,7 @@
 <br><br>
 
 <img
-  src="https://media.giphy.com/media/MHLU4RUR7IaEU/giphy.gif"
+  src="https://media0.giphy.com/media/MHLU4RUR7IaEU/giphy.gif"
   width="500"
   alt="Mesut Özil Goal"
 />
