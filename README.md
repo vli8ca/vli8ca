@@ -50,48 +50,41 @@ I am particularly interested in **software engineering, backend development, pro
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Skills
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Languages">
-</p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,angular,tailwind,sass,django,fastapi,mysql,git,github,vscode&perline=8" alt="Development Skills">
 
-### Frontend
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass" alt="Frontend">
-</p>
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Power%20Automate-Automation-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 
-### Backend
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" alt="Backend">
-</p>
+<img src="https://img.shields.io/badge/Process%20Automation-RPA-D71920?style=for-the-badge&logo=robotframework&logoColor=white" alt="Process Automation">
+<img src="https://img.shields.io/badge/Workflow%20Automation-Digitalization-5C2D91?style=for-the-badge&logo=automattic&logoColor=white" alt="Workflow Automation">
+<img src="https://img.shields.io/badge/REST%20APIs-System%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+<img src="https://img.shields.io/badge/Data%20Integration-ETL-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Integration">
 
-### Databases
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases">
-</p>
+<img src="https://img.shields.io/badge/Data%20Analysis-Analytics-4B8BBE?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis">
+<img src="https://img.shields.io/badge/Data%20Visualization-Dashboards-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black" alt="Data Visualization">
+<img src="https://img.shields.io/badge/Data%20Transformation-Processing-FF6F00?style=for-the-badge&logo=apache&logoColor=white" alt="Data Transformation">
+<img src="https://img.shields.io/badge/Data%20Validation-Quality-00A98F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Validation">
 
-### Development Tools
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
-</p>
+<img src="https://img.shields.io/badge/Generative%20AI-AI%20Solutions-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/AI--powered%20Solutions-Process%20Innovation-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="AI-powered Solutions">
+<img src="https://img.shields.io/badge/Software%20Architecture-System%20Design-333333?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Software Architecture">
+<img src="https://img.shields.io/badge/Agile-Development-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile">
 
-### Automation, Data & Business Tools
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
-</p>
+</div>
 
 ---
 
