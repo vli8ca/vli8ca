@@ -9,14 +9,6 @@
 
 <br><br>
 
-<img
-  src="https://media0.giphy.com/media/MHLU4RUR7IaEU/giphy.gif"
-  width="500"
-  alt="Mesut Özil Goal"
-/>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/leonardo-albergoni-viana-55b81929a/">
   <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -265,12 +257,5 @@ Technical education focused on programming, web development, databases and syste
 <a href="https://github.com/vli8ca">
   <img src="https://img.shields.io/badge/GitHub-vli8ca-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=vli8ca&style=flat-square&color=D71920&label=Profile+Views"
-  alt="Profile Views"
-/>
 
 </div>
