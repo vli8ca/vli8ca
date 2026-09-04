@@ -54,35 +54,45 @@ I am particularly interested in **software engineering, backend development, pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,angular,tailwind,sass,django,fastapi,mysql,git,github,vscode&perline=8" alt="Development Skills">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/Power%20Automate-Automation-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Python-1F2328?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-1F2328?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-1F2328?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML5-1F2328?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1F2328?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
 <br>
 
-<img src="https://img.shields.io/badge/Process%20Automation-RPA-D71920?style=for-the-badge&logo=robotframework&logoColor=white" alt="Process Automation">
-<img src="https://img.shields.io/badge/Workflow%20Automation-Digitalization-5C2D91?style=for-the-badge&logo=automattic&logoColor=white" alt="Workflow Automation">
-<img src="https://img.shields.io/badge/REST%20APIs-System%20Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
-<img src="https://img.shields.io/badge/Data%20Integration-ETL-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Integration">
+<img src="https://img.shields.io/badge/React-1F2328?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Next.js-1F2328?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Angular-1F2328?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-1F2328?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 
 <br>
 
-<img src="https://img.shields.io/badge/Data%20Analysis-Analytics-4B8BBE?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis">
-<img src="https://img.shields.io/badge/Data%20Visualization-Dashboards-F2C811?style=for-the-badge&logo=googleanalytics&logoColor=black" alt="Data Visualization">
-<img src="https://img.shields.io/badge/Data%20Transformation-Processing-FF6F00?style=for-the-badge&logo=apache&logoColor=white" alt="Data Transformation">
-<img src="https://img.shields.io/badge/Data%20Validation-Quality-00A98F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Validation">
+<img src="https://img.shields.io/badge/Django-1F2328?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/FastAPI-1F2328?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/MySQL-1F2328?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/REST%20APIs-1F2328?style=for-the-badge" alt="REST APIs">
 
 <br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-AI%20Solutions-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
-<img src="https://img.shields.io/badge/AI--powered%20Solutions-Process%20Innovation-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="AI-powered Solutions">
-<img src="https://img.shields.io/badge/Software%20Architecture-System%20Design-333333?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Software Architecture">
-<img src="https://img.shields.io/badge/Agile-Development-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile">
+<img src="https://img.shields.io/badge/n8n-1F2328?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Power%20Automate-1F2328?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
+<img src="https://img.shields.io/badge/Process%20Automation-1F2328?style=for-the-badge" alt="Process Automation">
+<img src="https://img.shields.io/badge/RPA-1F2328?style=for-the-badge" alt="RPA">
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-1F2328?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-1F2328?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+<img src="https://img.shields.io/badge/Data%20Analysis-1F2328?style=for-the-badge" alt="Data Analysis">
+<img src="https://img.shields.io/badge/Data%20Integration-1F2328?style=for-the-badge" alt="Data Integration">
+
+<br>
+
+<img src="https://img.shields.io/badge/Generative%20AI-1F2328?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/Git-1F2328?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </div>
 
