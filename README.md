@@ -239,40 +239,6 @@ Technical education focused on programming, web development, databases and syste
 
 ---
 
-## ⚙️ How I Approach Digital Solutions
-
-<div align="center">
-
-**Business Process**
-
-↓
-
-**Process Analysis**
-
-↓
-
-**Automation Opportunity**
-
-↓
-
-**Software · AI · Data Solution**
-
-↓
-
-**Integration & Validation**
-
-↓
-
-**Reliable Digital Workflow**
-
-</div>
-
-<br>
-
-My goal is not only to write code, but to understand the problem behind it and build solutions that are **maintainable, scalable and useful in real-world environments**.
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
