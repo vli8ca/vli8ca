@@ -104,6 +104,7 @@ I am particularly interested in **software engineering, backend development, pro
 <img src="https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white" alt="GitHub">
 
 </div>
+
 ---
 
 <a id="experience"></a>
