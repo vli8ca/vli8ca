@@ -6,7 +6,8 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=D71920&center=true&vCenter=true&width=700&lines=Digital+Solutions+Intern+%40+Bosch+Germany;Software+Development+%26+Process+Automation;Building+AI-powered+Digital+Solutions;Data+%7C+Automation+%7C+Software+Engineering"
   alt="Typing SVG"
 />
-
+<br><br>
+<img src="assets/giphy.gif" alt="Animated football clip" width="480">
 <br><br>
 
 <a href="https://www.linkedin.com/in/leonardo-albergoni-viana-55b81929a/">
@@ -77,65 +78,32 @@ I am particularly interested in **software engineering, backend development, pro
 
 <div align="center">
 
-<strong>Programming Languages &amp; Web</strong><br><br>
-
 <img src="https://img.shields.io/badge/Python-1F2328?style=flat&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-1F2328?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-1F2328?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/HTML5-1F2328?style=flat&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1F2328?style=flat&logo=css3&logoColor=white" alt="CSS3">
-
-<br><br>
-<strong>Frontend</strong><br><br>
-
-<br>
-
 <img src="https://img.shields.io/badge/React-1F2328?style=flat&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/Next.js-1F2328?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Angular-1F2328?style=flat&logo=angular&logoColor=white" alt="Angular">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-1F2328?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-
-<br><br>
-<strong>Backend &amp; APIs</strong><br><br>
-
-<br>
-
 <img src="https://img.shields.io/badge/Django-1F2328?style=flat&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/FastAPI-1F2328?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/MySQL-1F2328?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/REST%20APIs-1F2328?style=flat" alt="REST APIs">
-
-<br><br>
-<strong>Automation</strong><br><br>
-
-<br>
-
 <img src="https://img.shields.io/badge/n8n-1F2328?style=flat&logo=n8n&logoColor=white" alt="n8n">
 <img src="https://img.shields.io/badge/Power%20Automate-1F2328?style=flat&logo=powerautomate&logoColor=white" alt="Power Automate">
 <img src="https://img.shields.io/badge/Process%20Automation-1F2328?style=flat" alt="Process Automation">
 <img src="https://img.shields.io/badge/RPA-1F2328?style=flat" alt="RPA">
-
-<br><br>
-<strong>Data &amp; Analytics</strong><br><br>
-
-<br>
-
 <img src="https://img.shields.io/badge/Power%20BI-1F2328?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-1F2328?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 <img src="https://img.shields.io/badge/Data%20Analysis-1F2328?style=flat" alt="Data Analysis">
 <img src="https://img.shields.io/badge/Data%20Integration-1F2328?style=flat" alt="Data Integration">
-
-<br><br>
-<strong>AI &amp; Tools</strong><br><br>
-
-<br>
-
 <img src="https://img.shields.io/badge/Generative%20AI-1F2328?style=flat&logo=openai&logoColor=white" alt="Generative AI">
 <img src="https://img.shields.io/badge/Git-1F2328?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white" alt="GitHub">
 
 </div>
-
 ---
 
 <a id="experience"></a>
