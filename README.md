@@ -21,8 +21,21 @@
 
 </div>
 
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#current-focus">Focus</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#languages">Languages</a> ·
+  <a href="#github-analytics">GitHub</a> ·
+  <a href="#contribution-activity">Activity</a> ·
+  <a href="#contact">Contact</a>
+</p>
+
 ---
 
+<a id="about-me"></a>
 ## 👋 About Me
 
 I'm a **Computer Science student and Digital Solutions Intern at Bosch Germany**, currently working in an international environment in **Schwieberdingen, Germany**.
@@ -39,65 +52,93 @@ I am particularly interested in **software engineering, backend development, pro
 
 ---
 
+<a id="current-focus"></a>
 ## 🎯 Current Focus
 
-- ⚙️ **Process Automation**
-- 🤖 **AI-powered Digital Solutions**
-- 📊 **Data Integration & Analysis**
-- 💻 **Software Development**
-- 🔗 **APIs & System Integration**
-- 🏗️ **Software Architecture**
+<table align="center">
+  <tr>
+    <td>⚙️ <strong>Process Automation</strong></td>
+    <td>🤖 <strong>AI-powered Digital Solutions</strong></td>
+  </tr>
+  <tr>
+    <td>📊 <strong>Data Integration &amp; Analysis</strong></td>
+    <td>💻 <strong>Software Development</strong></td>
+  </tr>
+  <tr>
+    <td>🔗 <strong>APIs &amp; System Integration</strong></td>
+    <td>🏗️ <strong>Software Architecture</strong></td>
+  </tr>
+</table>
 
 ---
 
+<a id="skills"></a>
 ## 🛠️ Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-1F2328?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-1F2328?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-1F2328?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/HTML5-1F2328?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1F2328?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<strong>Programming Languages &amp; Web</strong><br><br>
+
+<img src="https://img.shields.io/badge/Python-1F2328?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-1F2328?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-1F2328?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML5-1F2328?style=flat&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1F2328?style=flat&logo=css3&logoColor=white" alt="CSS3">
+
+<br><br>
+<strong>Frontend</strong><br><br>
 
 <br>
 
-<img src="https://img.shields.io/badge/React-1F2328?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Next.js-1F2328?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Angular-1F2328?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-1F2328?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/React-1F2328?style=flat&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Next.js-1F2328?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Angular-1F2328?style=flat&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-1F2328?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+
+<br><br>
+<strong>Backend &amp; APIs</strong><br><br>
 
 <br>
 
-<img src="https://img.shields.io/badge/Django-1F2328?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/FastAPI-1F2328?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/MySQL-1F2328?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/REST%20APIs-1F2328?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/Django-1F2328?style=flat&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/FastAPI-1F2328?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/MySQL-1F2328?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/REST%20APIs-1F2328?style=flat" alt="REST APIs">
+
+<br><br>
+<strong>Automation</strong><br><br>
 
 <br>
 
-<img src="https://img.shields.io/badge/n8n-1F2328?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/Power%20Automate-1F2328?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
-<img src="https://img.shields.io/badge/Process%20Automation-1F2328?style=for-the-badge" alt="Process Automation">
-<img src="https://img.shields.io/badge/RPA-1F2328?style=for-the-badge" alt="RPA">
+<img src="https://img.shields.io/badge/n8n-1F2328?style=flat&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Power%20Automate-1F2328?style=flat&logo=powerautomate&logoColor=white" alt="Power Automate">
+<img src="https://img.shields.io/badge/Process%20Automation-1F2328?style=flat" alt="Process Automation">
+<img src="https://img.shields.io/badge/RPA-1F2328?style=flat" alt="RPA">
+
+<br><br>
+<strong>Data &amp; Analytics</strong><br><br>
 
 <br>
 
-<img src="https://img.shields.io/badge/Power%20BI-1F2328?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-<img src="https://img.shields.io/badge/Microsoft%20Excel-1F2328?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-<img src="https://img.shields.io/badge/Data%20Analysis-1F2328?style=for-the-badge" alt="Data Analysis">
-<img src="https://img.shields.io/badge/Data%20Integration-1F2328?style=for-the-badge" alt="Data Integration">
+<img src="https://img.shields.io/badge/Power%20BI-1F2328?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-1F2328?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+<img src="https://img.shields.io/badge/Data%20Analysis-1F2328?style=flat" alt="Data Analysis">
+<img src="https://img.shields.io/badge/Data%20Integration-1F2328?style=flat" alt="Data Integration">
+
+<br><br>
+<strong>AI &amp; Tools</strong><br><br>
 
 <br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-1F2328?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
-<img src="https://img.shields.io/badge/Git-1F2328?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Generative%20AI-1F2328?style=flat&logo=openai&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/Git-1F2328?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white" alt="GitHub">
 
 </div>
 
 ---
 
+<a id="experience"></a>
 ## 💼 Professional Experience
 
 ### 🇩🇪 Robert Bosch GmbH
@@ -113,8 +154,6 @@ Currently working with digital solutions in an international environment, focusi
 - Data analysis and integration
 - Software development
 - Identification of opportunities for process digitalization
-
-<br>
 
 ### 🇧🇷 Bosch Brazil
 
@@ -132,8 +171,6 @@ Worked on digitalization and automation initiatives involving:
 - Internal digital solutions
 
 My work focused on understanding processes end-to-end, identifying automation opportunities and translating business requirements into functional technical solutions.
-
-<br>
 
 ### 🇧🇷 Bosch Brazil
 
@@ -154,6 +191,7 @@ During this period, I worked with:
 
 ---
 
+<a id="education"></a>
 ## 🎓 Education
 
 ### B.S. in Computer Science
@@ -169,15 +207,11 @@ Currently pursuing a bachelor's degree in Computer Science, developing knowledge
 - Web Development
 - Computer Science fundamentals
 
-<br>
-
 ### Technical Degree in Systems Development
 
 **SENAI Roberto Mange**
 
 Hands-on technical education focused on the software development lifecycle and full-stack application development.
-
-<br>
 
 ### Technical Degree in Systems Development
 
@@ -187,6 +221,7 @@ Technical education focused on programming, web development, databases and syste
 
 ---
 
+<a id="languages"></a>
 ## 🌎 Languages
 
 <p>
@@ -196,6 +231,7 @@ Technical education focused on programming, web development, databases and syste
 
 ---
 
+<a id="github-analytics"></a>
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -228,6 +264,7 @@ Technical education focused on programming, web development, databases and syste
 
 ---
 
+<a id="contribution-activity"></a>
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -242,6 +279,7 @@ Technical education focused on programming, web development, databases and syste
 
 ---
 
+<a id="contact"></a>
 ## 🤝 Connect With Me
 
 <div align="center">
